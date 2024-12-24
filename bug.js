@@ -1,0 +1,1 @@
+The Firebase SDK might throw an error if you try to access a value from a snapshot before the data has fully loaded. This often happens when you use asynchronous operations without properly handling promises or callbacks.
